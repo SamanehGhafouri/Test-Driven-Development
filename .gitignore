@@ -1,5 +1,5 @@
 db.sqlite3
 geckodriver.log
 __pycache__
-env.py
 .gitignore
+.env
